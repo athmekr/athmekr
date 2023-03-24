@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @athmekr
 - 👀 I’m interested in software development (mostly backend)
-- 🌱 I’m currently learning js, nodejs, scala
+- 🌱 I’m currently learning js, nodejs
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: athmekr@gmail.com
